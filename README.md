@@ -7,7 +7,7 @@ Freelance **web developer** based in Syria, specializing in building full-stack 
 ## About me
 
 - 📍 Al-Qatifa, Syria
-- 🌐 Portfolio: [noursh.pro](https://noursh.pro)
+- 🌐 Portfolio: [nourx.tech](https://nourx.tech)
 - 💼 Open to freelance projects
 - 🗣️ Arabic (native) · English
 
